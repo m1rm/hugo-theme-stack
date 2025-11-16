@@ -1,4 +1,13 @@
-![image](https://user-images.githubusercontent.com/5889006/190859441-141b5f81-8483-40d2-bd96-ebf85616a46d.png)
+## This Repository
+This Repo is a copy of the hugo stack theme starter template you can find at: https://github.com/CaiJimmy/hugo-theme-stack-starter
+
+I use it to develop theme bugfixes/features/suggestions.
+
+The theme is inlined in the themes older and versioned separately (so one can open pull requests into upstream).
+
+The forked hugo theme "stack" I use is available at: https://github.com/m1rm/hugo-theme-stack
+
+# Original README.md from forked repo starts from here.
 
 # Hugo Theme Stack
 
